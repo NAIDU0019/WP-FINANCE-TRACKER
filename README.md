@@ -59,5 +59,4 @@ For any inquiries, contact [your email] or create an issue in the repository.
 
 ---
 
-🚀 **Next Steps:** Now, let’s enhance the dashboard with zoom-in/out chart controls! 🔥
 
